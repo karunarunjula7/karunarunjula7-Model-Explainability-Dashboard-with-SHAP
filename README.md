@@ -43,7 +43,7 @@ Project/
 
 Displays SHAP bar chart showing which features most influence the model across all predictions.
 
-📁 Screenshot:
+Screenshot:
 
 01_global_feature_importance.png
 
